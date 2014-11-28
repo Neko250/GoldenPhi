@@ -101,7 +101,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : goldenphi
+      short_name : neko250
     livefyre :
       site_id : 123
     intensedebate :
