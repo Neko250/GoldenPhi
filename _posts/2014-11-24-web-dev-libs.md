@@ -35,4 +35,6 @@ I've hosted a set of libraries (html, css & js) in this site.
 
 ---
 
-And you can find them here: [Resources](http://goldenphi.github.io/resources.html)
+And you can find them here: [Resources](http://neko250.github.io/GoldenPhi/resources.html)
+
+---
