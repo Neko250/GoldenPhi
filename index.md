@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Golden Phi
+title: Golden Phi
 tagline: A Software Engineer's Blog
 ---
 {% include JB/setup %}
