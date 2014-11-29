@@ -13,6 +13,7 @@ group: navigation
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome): The iconic font and CSS toolkit
 - [Animate.css](http://daneden.github.io/animate.css): Just-add-water CSS animations
 - [WOW.js](http://mynameismatthieu.com/WOW/index.html): Reveal animations when you scroll. Easily customize animations settings (style, delay, length, offset, iterations...)
+- [Chardin.js](http://heelhook.github.io/chardin.js/): Simple overlay instructions for your apps
 - [highlight.js](https://highlightjs.org): Syntax highlighting for the web
 - [Ladda](http://lab.hakim.se/ladda/): Buttons with built-in loading indicators
 - [Fokus](http://lab.hakim.se/fokus/): Emphasize anything you select by covering the rest of the page with semi-transparent black
@@ -58,6 +59,10 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <script>
 	new WOW().init();
 </script>
+
+<!-- Chardin.js -->
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.css">
+<script src="http://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.min.js"></script>
 
 <!-- highlight.js -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/highlight/styles/monokai_sublime.css">
