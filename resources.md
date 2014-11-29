@@ -76,8 +76,9 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <script src="http://neko250.github.io/GoldenPhi/resources/fokus.min.js"></script>
 
 <!-- Meny -->
-<!-- The stylesheet is optional -->
+<!-- The stylesheet is optional, if taking one, take only one -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/meny/meny-theme.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/meny/meny-250-theme.css">
 <script src="http://neko250.github.io/GoldenPhi/resources/meny/meny.js"></script>
 
 <!-- forkit.js -->
