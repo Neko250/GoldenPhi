@@ -48,6 +48,7 @@ built for the web
 - [Snap.svg](http://snapsvg.io): The JS SVG library for the modern web
 - [jCorner](http://zhangwenli.com/jCorner/): A jQuery plugin to fold paper corners
 - [Smooth Scroll](http://cferdinandi.github.io/smooth-scroll/): A simple vanilla JS script to animate scrolling to anchor links
+- [PositionSticky](https://github.com/katranci/jQuery.positionSticky): Sticky positioning polyfill for jQuery
 - [Flexible.gs](http://flexible.gs/): Flexible grid system
 - [Leaflet](http://leafletjs.com): An open-source JS library for mobile-friendly interactive maps
 - [eCalendar](https://github.com/jhonis/e-calendar): jQuery plugin for create a calendar with events
@@ -232,6 +233,9 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <script>
 	smoothScroll.init();
 </script>
+
+<!-- PositionSticky -->
+<script src="http://neko250.github.io/GoldenPhi/resources/jQuery.positionSticky.min.js"></script>
 
 <!-- Flexible.gs -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/flexiblegs/flexiblegs.min.css">
