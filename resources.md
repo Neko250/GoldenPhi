@@ -110,8 +110,22 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/feather/feather.css">
 
 <!-- PACE -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/minimal.css">
+<!-- Include only one theme -->
 <script src="http://neko250.github.io/GoldenPhi/resources/pace/pace.min.js"></script>
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/minimal.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/flash.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/barber.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/mac.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/fill.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/flat.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/counter.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/corner.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/bounce.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/loading.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/circle.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/atom.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/radar.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/simple.css">
 
 <!-- VIDE -->
 <script src="http://neko250.github.io/GoldenPhi/resources/jquery.vide.min.js"></script>
