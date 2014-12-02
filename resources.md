@@ -85,6 +85,23 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap-theme.min.css">
 <script src="http://neko250.github.io/GoldenPhi/resources/bootstrap/js/bootstrap.min.js"></script>
+<!-- Bootswatch themes -->
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/cerulean.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/cosmo.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/cyborg.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/darkly.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/flatly.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/journal.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/lumen.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/paper.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/readable.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/sandstone.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/simplex.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/slate.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/spacelab.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/superhero.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/united.min.css">
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/yeti.min.css">
 
 <!-- FontAwesome -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/font-awesome/css/font-awesome.min.css">
