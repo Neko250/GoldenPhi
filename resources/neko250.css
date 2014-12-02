@@ -1,6 +1,10 @@
 ::selection {
-	background: #d1edf8; /* WebKit/Blink Browsers */
+	background: #444; /* WebKit/Blink Browsers */
+	color: #fff;
+	text-shadow: none;
 }
 ::-moz-selection {
-	background: #d1edf8; /* Gecko Browsers */
+	background: #444; /* Gecko Browsers */
+	color: #fff;
+	text-shadow: none;
 }
