@@ -1,6 +1,3 @@
-body {
-	overflow:hidden;
-}
 ::selection {
 	background: #444; /* WebKit/Blink Browsers */
 	color: #fff;
