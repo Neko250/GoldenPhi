@@ -82,65 +82,65 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 {% highlight html %}
 <!-- jQuery -->
 <!-- Use only one version -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery-1.11.1.min.js"></script>
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery-2.1.1.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery-1.11.1.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery-2.1.1.min.js"></script>
 
 <!-- Bootstrap -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap-theme.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/bootstrap/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap-theme.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/bootstrap/js/bootstrap.min.js"></script>
 <!-- Bootswatch themes -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/cerulean.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/cosmo.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/cyborg.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/darkly.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/flatly.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/journal.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/lumen.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/paper.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/readable.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/sandstone.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/simplex.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/slate.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/spacelab.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/superhero.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/united.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/yeti.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/cerulean.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/cosmo.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/cyborg.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/darkly.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/flatly.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/journal.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/lumen.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/paper.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/readable.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/sandstone.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/simplex.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/slate.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/spacelab.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/superhero.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/united.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/yeti.min.css">
 
 <!-- Materialize -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/materialize/css/materialize.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/materialize/js/materialize.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/materialize/css/materialize.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/materialize/js/materialize.min.js"></script>
 
 <!-- FontAwesome -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/font-awesome/css/font-awesome.min.css">
 
 <!-- Twemoji Awesome -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/twemoji-awesome.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/twemoji-awesome.css">
 
 <!-- Feather Icons -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/feather/feather.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/feather/feather.css">
 
 <!-- PACE -->
 <!-- Include only one theme -->
-<script src="http://neko250.github.io/GoldenPhi/resources/pace/pace.min.js"></script>
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/minimal.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/flash.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/barber.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/mac.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/fill.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/flat.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/counter.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/corner.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/bounce.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/loading.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/circle.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/atom.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/radar.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/simple.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/pace/pace.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/minimal.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/flash.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/barber.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/mac.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/fill.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/flat.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/counter.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/corner.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/bounce.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/loading.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/circle.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/atom.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/radar.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pace/themes/simple.css">
 
 <!-- Progress.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/progress/progressjs.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/progress/progress.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/progress/progressjs.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/progress/progress.min.js"></script>
 <script>
 	// To set progress-bar for whole page
 	progressJs().start();
@@ -149,14 +149,14 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 </script>
 
 <!-- VIDE -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery.vide.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery.vide.min.js"></script>
 
 <!-- Trianglify -->
 <!-- Requires D3.js library -->
-<script src="http://neko250.github.io/GoldenPhi/resources/trianglify.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/trianglify.min.js"></script>
 
 <!-- Crossfade.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/crossfade.jquery.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/crossfade.jquery.js"></script>
 <script>
 	$(function () {
 		$('.crossfade').crossfade(options);
@@ -164,117 +164,117 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 </script>
 
 <!-- Marka -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/marka/marka.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/marka/marka.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/marka/marka.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/marka/marka.min.js"></script>
 
 <!-- Sweep -->
-<script src="http://neko250.github.io/GoldenPhi/resources/sweep.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/sweep.min.js"></script>
 
 <!-- Animate.css -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/animate.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/animate.css">
 
 <!-- WOW.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/wow.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/wow.min.js"></script>
 <script>
 	new WOW().init();
 </script>
 
 <!-- SpinKit -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/spinkit.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/spinkit.css">
 
 <!-- Chardin.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.min.js"></script>
 
 <!-- PurpleCoat.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/purplecoat-min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/purplecoat-min.js"></script>
 
 <!-- highlight.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/highlight/styles/monokai_sublime.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/highlight/highlight.pack.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/highlight/styles/monokai_sublime.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
 <!-- UILang -->
-<script src="http://neko250.github.io/GoldenPhi/resources/uilang.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/uilang.js"></script>
 
 <!-- Ladda -->
 <!-- Use only one stylesheet and one ladda script -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/ladda/ladda.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/ladda/ladda-themeless.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/ladda/ladda.min.js"></script>
-<script src="http://neko250.github.io/GoldenPhi/resources/ladda/ladda.jquery.min.js"></script>
-<script src="http://neko250.github.io/GoldenPhi/resources/ladda/spin.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/ladda/ladda.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/ladda/ladda-themeless.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/ladda/ladda.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/ladda/ladda.jquery.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/ladda/spin.min.js"></script>
 
 <!-- Fokus -->
-<script src="http://neko250.github.io/GoldenPhi/resources/fokus.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/fokus.min.js"></script>
 
 <!-- Meny -->
 <!-- The stylesheet is optional, if taking one, take only one -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/meny/meny-theme.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/meny/meny-250-theme.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/meny/meny.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/meny/meny-theme.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/meny/meny-250-theme.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/meny/meny.js"></script>
 
 <!-- forkit.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/forkit.js/forkit.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/forkit.js/forkit.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/forkit.js/forkit.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/forkit.js/forkit.js"></script>
 
 <!-- Stroll -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/stroll/stroll.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/stroll/stroll.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/stroll/stroll.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/stroll/stroll.min.js"></script>
 
 <!-- BLOKK -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/blokk/blokk.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/blokk/blokk_neue.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/blokk/blokk.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/blokk/blokk_neue.css">
 
 <!-- FBLogin -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery.fblogin.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery.fblogin.min.js"></script>
 
 <!-- scrollReveal.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/scrollReveal.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/scrollReveal.min.js"></script>
 <script>
 	window.sr = new scrollReveal();
 </script>
 
 <!-- Prezento -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/prezento/jquery.prezento.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/prezento/jquery.prezento.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/prezento/jquery.prezento.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/prezento/jquery.prezento.min.js"></script>
 <!-- You can use the images listed here -->
-<!-- http://neko250.github.io/GoldenPhi/resources/prezento/images/imac.png -->
-<!-- http://neko250.github.io/GoldenPhi/resources/prezento/images/mbp.png -->
-<!-- http://neko250.github.io/GoldenPhi/resources/prezento/images/ipad.png -->
-<!-- http://neko250.github.io/GoldenPhi/resources/prezento/images/iphone.png -->
+<!-- https://neko250.github.io/GoldenPhi/resources/prezento/images/imac.png -->
+<!-- https://neko250.github.io/GoldenPhi/resources/prezento/images/mbp.png -->
+<!-- https://neko250.github.io/GoldenPhi/resources/prezento/images/ipad.png -->
+<!-- https://neko250.github.io/GoldenPhi/resources/prezento/images/iphone.png -->
 
 <!-- prettySocial -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery.prettySocial.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery.prettySocial.min.js"></script>
 <script>
 	$('.prettySocial').prettySocial();
 </script>
 
 <!-- Github Fork Ribbon -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/gh-fork-ribbon.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/gh-fork-ribbon.css">
 
 <!-- Countable -->
-<script src="http://neko250.github.io/GoldenPhi/resources/countable.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/countable.js"></script>
 
 <!-- Fort.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/fort/fort.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/fort/fort.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/fort/fort.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/fort/fort.min.js"></script>
 
 <!-- Simplax -->
-<script src="http://neko250.github.io/GoldenPhi/resources/simplax.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/simplax.js"></script>
 
 <!-- rollerblade.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/rollerblade/rollerblade.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/rollerblade/rollerblade.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/rollerblade/rollerblade.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/rollerblade/rollerblade.min.js"></script>
 
 <!-- moment.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/moment.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/moment.js"></script>
 <script>
 	moment().format();
 </script>
 
 <!-- midnight.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/midnight.jquery.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/midnight.jquery.min.js"></script>
 <script>
 	// Start midnight
 	$(document).ready(function() {
@@ -284,44 +284,44 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 </script>
 
 <!-- Velocity.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/velocity.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/velocity.min.js"></script>
 
 <!-- D3.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/d3.min.js" charset="utf-8"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/d3.min.js" charset="utf-8"></script>
 
 <!-- SweetAlert -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/sweetalert/sweet-alert.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/sweetalert/sweet-alert.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/sweetalert/sweet-alert.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/sweetalert/sweet-alert.min.js"></script>
 
 <!-- require.js -->
 <!-- Fill data-main="" -->
-<script data-main="" src="http://neko250.github.io/GoldenPhi/resources/require.min.js"></script>
+<script data-main="" src="https://neko250.github.io/GoldenPhi/resources/require.min.js"></script>
 
 <!-- PureCSS -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pure-min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/pure-min.css">
 
 <!-- PicnicCSS -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/picnic.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/picnic.min.css">
 
 <!-- Timesheet.js -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/timesheet/timesheet.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/timesheet/timesheet.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/timesheet/timesheet.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/timesheet/timesheet.js"></script>
 
 <!-- Chartist -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/chartist/chartist.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/chartist/chartist.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/chartist/chartist.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/chartist/chartist.min.js"></script>
 
 <!-- chart.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/Chart.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/Chart.min.js"></script>
 
 <!-- TextTailor -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery.texttailor.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery.texttailor.min.js"></script>
 <script>
 	$('.tailor-me').textTailor();
 </script>
 
 <!-- Fitter -->
-<script src="http://neko250.github.io/GoldenPhi/resources/fitter-happier-text.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/fitter-happier-text.js"></script>
 <script>
 	var nodes = document.querySelectorAll('[data-fitter-happier-text]');
 	fitterHappierText(nodes);
@@ -329,80 +329,80 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 
 <!-- Goodnight -->
 <!-- Set dark.css to your night style -->
-<script src="http://neko250.github.io/GoldenPhi/resources/goodnight.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/goodnight.min.js"></script>
 <script>
 	Goodnight.css('dark.css');
 </script>
 
 <!-- Snap.svg -->
-<script src="http://neko250.github.io/GoldenPhi/resources/snap.svg-min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/snap.svg-min.js"></script>
 
 <!-- SVG.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/svg.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/svg.min.js"></script>
 
 <!-- Paper.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/paperjs/paper-full.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/paperjs/paper-full.min.js"></script>
 
 <!-- Linky -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery.linky.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery.linky.min.js"></script>
 
 <!-- jCorner -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jCorner.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jCorner.min.js"></script>
 <script>
 	$('#paper').jCorner();
 </script>
 
 <!-- Smooth Scroll -->
 <!-- Add data-scroll attribute to anchor links -->
-<script src="http://neko250.github.io/GoldenPhi/resources/smooth-scroll.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/smooth-scroll.min.js"></script>
 <script>
 	smoothScroll.init();
 </script>
 
 <!-- PositionSticky -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jQuery.positionSticky.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jQuery.positionSticky.min.js"></script>
 
 <!-- Flexible.gs -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/flexiblegs/flexiblegs.min.css">
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/flexiblegs/flexiblegs.style.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/flexiblegs/flexiblegs.min.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/flexiblegs/flexiblegs.style.css">
 
 <!-- Leaflet -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/leaflet/leaflet.css" />
-<script src="http://neko250.github.io/GoldenPhi/resources/leaflet/leaflet.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/leaflet/leaflet.css" />
+<script src="https://neko250.github.io/GoldenPhi/resources/leaflet/leaflet.min.js"></script>
 
 <!-- eCalendar -->
 <!-- Requires jQuery 1.11 -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/ecalendar/jquery.e-calendar.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/ecalendar/jquery.e-calendar.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/ecalendar/jquery.e-calendar.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/ecalendar/jquery.e-calendar.js"></script>
 
 <!-- ImageFit -->
-<script src="http://neko250.github.io/GoldenPhi/resources/jquery.imagefit.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/jquery.imagefit.min.js"></script>
 
 <!-- KaTeX -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/katex/katex.min.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/katex/katex.min.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/katex/katex.min.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/katex/katex.min.js"></script>
 
 <!-- Autocomplete -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/autocomplete/jquery.autocomplete.css">
-<script src="http://neko250.github.io/GoldenPhi/resources/autocomplete/jquery.autocomplete.js"></script>
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/autocomplete/jquery.autocomplete.css">
+<script src="https://neko250.github.io/GoldenPhi/resources/autocomplete/jquery.autocomplete.js"></script>
 
 <!-- Intl-Tel-Input -->
 <!-- The input element can be placed anywhere in your HTML -->
-<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/intltel/css/intlTelInput.css">
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/intltel/css/intlTelInput.css">
 <input type="tel" id="mobile-number">
-<script src="http://neko250.github.io/GoldenPhi/resources/intltel/js/intlTelInput.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/intltel/js/intlTelInput.min.js"></script>
 <script>
 	$("#mobile-number").intlTelInput();
 </script>
 
 <!-- Vue.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/vue.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/vue.min.js"></script>
 
 <!-- Seedrandom -->
-<script src="http://neko250.github.io/GoldenPhi/resources/seedrandom.min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/seedrandom.min.js"></script>
 
 <!-- Underscore.js -->
-<script src="http://neko250.github.io/GoldenPhi/resources/underscore-min.js"></script>
+<script src="https://neko250.github.io/GoldenPhi/resources/underscore-min.js"></script>
 {% endhighlight %}
 
 ---
