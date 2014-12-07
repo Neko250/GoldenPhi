@@ -10,9 +10,12 @@ group: navigation
 
 - [jQuery](http://jquery.com): Fast, small and feature-rich JavaScript library
 - [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS and JS framework for developing responsive, mobile first projects on the web
+- [Materialize](http://materializecss.com/): A modern responsive front-end framework based on Material Design
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome): The iconic font and CSS toolkit
+- [Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/): Like FontAwesome, but for Twitter Emoji
 - [Feather Icons](https://gumroad.com/l/feather): Feather is a growing collection of beautifully simple icons
 - [PACE](http://github.hubspot.com/pace/docs/welcome/): Automatic page load progress bar
+- [Progress.js](http://usablica.github.io/progress.js/): A themeable progress bar library for everything
 - [VIDE](http://vodkabears.github.io/vide/): Easy as hell jQuery plugin for video backgrounds
 - [Trianglify](http://qrohlf.com/trianglify/): JavaScript library for generating colorful triangle meshes
 - [Crossfade.js](http://mikefowler.me/crossfade.js/): jQuery plugin for crossfading images as you scroll down a page
@@ -22,6 +25,7 @@ group: navigation
 - [WOW.js](http://mynameismatthieu.com/WOW/index.html): Reveal animations when you scroll. Easily customize animations settings (style, delay, length, offset, iterations...)
 - [SpinKit](http://tobiasahlin.com/spinkit/): A collection of loading indicators animated with CSS
 - [Chardin.js](http://heelhook.github.io/chardin.js/): Simple overlay instructions for your apps
+- [PurpleCoat.js](http://ellekasai.github.io/purplecoat.js/): Lets you create labeled overlays that can be triggered with a click
 - [highlight.js](https://highlightjs.org): Syntax highlighting for the web
 - [UILang](http://uilang.com/): A minimal, ui-focused programming language for web designers
 - [Ladda](http://lab.hakim.se/ladda/): Buttons with built-in loading indicators
@@ -103,8 +107,15 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/united.min.css">
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/bootstrap/css/yeti.min.css">
 
+<!-- Materialize -->
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/materialize/css/materialize.min.css">
+<script src="http://neko250.github.io/GoldenPhi/resources/materialize/js/materialize.min.js"></script>
+
 <!-- FontAwesome -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/font-awesome/css/font-awesome.min.css">
+
+<!-- Twemoji Awesome -->
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/twemoji-awesome.css">
 
 <!-- Feather Icons -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/feather/feather.css">
@@ -126,6 +137,16 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/atom.css">
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/radar.css">
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/pace/themes/simple.css">
+
+<!-- Progress.js -->
+<link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/progress/progressjs.min.css">
+<script src="http://neko250.github.io/GoldenPhi/resources/progress/progress.min.js"></script>
+<script>
+	// To set progress-bar for whole page
+	progressJs().start();
+	// Or for specific element
+	progressJs("#targetElement").start();
+</script>
 
 <!-- VIDE -->
 <script src="http://neko250.github.io/GoldenPhi/resources/jquery.vide.min.js"></script>
@@ -164,6 +185,9 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <!-- Chardin.js -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.css">
 <script src="http://neko250.github.io/GoldenPhi/resources/chardin/chardinjs.min.js"></script>
+
+<!-- PurpleCoat.js -->
+<script src="http://neko250.github.io/GoldenPhi/resources/purplecoat-min.js"></script>
 
 <!-- highlight.js -->
 <link rel="stylesheet" href="http://neko250.github.io/GoldenPhi/resources/highlight/styles/monokai_sublime.css">
