@@ -9,8 +9,10 @@ group: navigation
 ### Links
 
 - [jQuery](http://jquery.com): Fast, small and feature-rich JavaScript library
+- [Normalize.css](http://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets
 - [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS and JS framework for developing responsive, mobile first projects on the web
 - [Materialize](http://materializecss.com/): A modern responsive front-end framework based on Material Design
+- [Skeleton](http://getskeleton.com): A dead simple, responsive boilerplate
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome): The iconic font and CSS toolkit
 - [Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/): Like FontAwesome, but for Twitter Emoji
 - [Feather Icons](https://gumroad.com/l/feather): Feather is a growing collection of beautifully simple icons
@@ -85,6 +87,9 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <script src="https://neko250.github.io/GoldenPhi/resources/jquery-1.11.1.min.js"></script>
 <script src="https://neko250.github.io/GoldenPhi/resources/jquery-2.1.1.min.js"></script>
 
+<!-- Normalize.css -->
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/normalize.css">
+
 <!-- Bootstrap -->
 <link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/bootstrap/css/bootstrap-theme.min.css">
@@ -110,6 +115,9 @@ To include any of these libraries, just copy-paste the HTML tags inside your `<h
 <!-- Materialize -->
 <link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/materialize/css/materialize.min.css">
 <script src="https://neko250.github.io/GoldenPhi/resources/materialize/js/materialize.min.js"></script>
+
+<!-- Skeleton -->
+<link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/skeleton.css">
 
 <!-- FontAwesome -->
 <link rel="stylesheet" href="https://neko250.github.io/GoldenPhi/resources/font-awesome/css/font-awesome.min.css">
